@@ -48,13 +48,4 @@ pip install context-cli
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hanselhansel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselhansel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 *Open to collaborating on AI agents, developer tools, and open source. Currently shipping [context-cli](https://github.com/hanselhansel/context-cli).*

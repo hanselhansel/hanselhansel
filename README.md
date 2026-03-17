@@ -42,6 +42,7 @@ AI-powered parenting companion for expecting and new fathers. Features daily tip
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)
 
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-FF6F00?logo=robot&logoColor=white)

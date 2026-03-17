@@ -2,7 +2,7 @@
 
 **I build AI-powered tools and ship them as open source.**
 
-Focused on agentic systems, CLI tooling, and developer tools that make AI more accessible and useful.
+Focused on agentic systems, mobile apps, and developer tools that make AI more accessible and useful.
 
 ---
 

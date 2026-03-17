@@ -66,4 +66,11 @@ AI-powered parenting companion for expecting and new fathers. Features daily tip
 
 ---
 
+## Currently Working On
+
+- 🔧 [context-cli](https://github.com/hanselhansel/context-cli) — expanding agent readiness checks and MCP tooling
+- 📱 [DadCoach](https://github.com/hanselhansel/baby-tracker) — building out AI coaching features and milestone tracking
+
+---
+
 *Open to collaborating on AI agents, developer tools, and open source. Currently shipping [context-cli](https://github.com/hanselhansel/context-cli).*

@@ -51,6 +51,8 @@ AI-powered parenting companion for expecting and new fathers. Features daily tip
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-DC143C)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)

@@ -15,7 +15,7 @@ Focused on agentic systems, mobile apps, and developer tools that make AI more a
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hanselhansel/context-cli/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/hanselhansel/context-cli?style=social)](https://github.com/hanselhansel/context-cli)
 
-Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0–100 scale.
+Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0–100 scale. v3.0 · 5 scoring pillars · MCP server · CI/CD integration
 
 ```
 pip install context-cli
@@ -36,7 +36,7 @@ pip install context-cli
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
 [![Stars](https://img.shields.io/github/stars/hanselhansel/baby-tracker?style=social)](https://github.com/hanselhansel/baby-tracker)
 
-AI-powered parenting companion for expecting and new fathers. Features daily tips, milestone tracking, AI coach powered by Gemini, and a guided journal.
+AI-powered parenting companion for expecting and new fathers. Features daily tips, milestone tracking, AI coach powered by Gemini, and a guided journal. 96 Kotlin files · Gemini-powered · Material 3 design
 
 ---
 

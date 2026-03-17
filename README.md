@@ -13,6 +13,7 @@ Focused on agentic systems, mobile apps, and developer tools that make AI more a
 [![PyPI](https://img.shields.io/pypi/v/context-cli?color=blue)](https://pypi.org/project/context-cli/)
 [![Python](https://img.shields.io/pypi/pyversions/context-cli)](https://pypi.org/project/context-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hanselhansel/context-cli/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/hanselhansel/context-cli?style=social)](https://github.com/hanselhansel/context-cli)
 
 Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0–100 scale.
 
@@ -24,6 +25,7 @@ pip install context-cli
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://github.com/hanselhansel/investment-research-sdk)
 [![Agents](https://img.shields.io/badge/79_Agents-Multi--Agent-orange)](https://github.com/hanselhansel/investment-research-sdk)
+[![Stars](https://img.shields.io/github/stars/hanselhansel/investment-research-sdk?style=social)](https://github.com/hanselhansel/investment-research-sdk)
 
 79-agent investment research system — multi-agent orchestration for financial analysis and due diligence.
 
@@ -32,6 +34,7 @@ pip install context-cli
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
+[![Stars](https://img.shields.io/github/stars/hanselhansel/baby-tracker?style=social)](https://github.com/hanselhansel/baby-tracker)
 
 AI-powered parenting companion for expecting and new fathers. Features daily tips, milestone tracking, AI coach powered by Gemini, and a guided journal.
 

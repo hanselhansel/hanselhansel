@@ -75,4 +75,4 @@ AI-powered parenting companion for expecting and new fathers. Features daily tip
 
 ---
 
-*Open to collaborating on AI agents, developer tools, and open source. Currently shipping [context-cli](https://github.com/hanselhansel/context-cli).*
+*Open to collaborating on AI agents, mobile apps, and open source.*

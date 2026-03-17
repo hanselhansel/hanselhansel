@@ -27,6 +27,14 @@ pip install context-cli
 
 79-agent investment research system — multi-agent orchestration for financial analysis and due diligence.
 
+### [DadCoach](https://github.com/hanselhansel/baby-tracker) — AI-Powered Parenting Companion
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
+
+AI-powered parenting companion for expecting and new fathers. Features daily tips, milestone tracking, AI coach powered by Gemini, and a guided journal.
+
 ---
 
 ## Tech Stack

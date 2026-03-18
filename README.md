@@ -25,11 +25,7 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 
 ### The Numbers
 
-11 repos. 5 languages. Mass-producing prototypes since 2019.
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanselhansel&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
-</p>
+2,600+ contributions. 11 repos. 5 languages. Mass-producing prototypes since 2019.
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselhansel&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />

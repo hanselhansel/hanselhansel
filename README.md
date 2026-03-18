@@ -1,6 +1,6 @@
 # Hey, I'm Hansel
 
-I build with AI, then open-source what works. Entrepreneur by day, mass-producing prototypes by night.
+I build with AI, then open-source what works. Mass-producing prototypes, one rabbit hole at a time.
 
 I think the best way to learn AI is to ship with it. So that's what I do.
 

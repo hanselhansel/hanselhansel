@@ -1,89 +1,40 @@
-# Hey, I'm Hansel 👋
+# Hey, I'm Hansel
 
-**I build AI-powered tools and ship them as open source.**
-
-Focused on agentic systems, mobile apps, and developer tools that make AI more accessible and useful.
+I build with AI, then open-source what works. Currently shipping agentic systems, multi-agent orchestration, and developer tools.
 
 ---
 
-## Featured Projects
+### What I'm Building
 
-### [context-cli](https://github.com/hanselhansel/context-cli) — LLM Readiness Linter
+**[ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine)** — Turn any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block you from skipping ahead, and full progress tracking in git. Works with Claude Code, OpenAI Codex, and Cursor AI.
 
-[![PyPI](https://img.shields.io/pypi/v/context-cli?color=blue)](https://pypi.org/project/context-cli/)
-[![Python](https://img.shields.io/pypi/pyversions/context-cli)](https://pypi.org/project/context-cli/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hanselhansel/context-cli/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/hanselhansel/context-cli?style=social)](https://github.com/hanselhansel/context-cli)
+**[context-cli](https://github.com/hanselhansel/context-cli)** — Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0-100 scale. Published on PyPI, includes MCP server.
 
-Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0–100 scale.
-v3.0 · 5 scoring pillars · MCP server · CI/CD integration
-
-```
-pip install context-cli
-```
-
-### [investment-research-sdk](https://github.com/hanselhansel/investment-research-sdk) — Multi-Agent Research System
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://github.com/hanselhansel/investment-research-sdk)
-[![Agents](https://img.shields.io/badge/79_Agents-Multi--Agent-orange)](https://github.com/hanselhansel/investment-research-sdk)
-[![Stars](https://img.shields.io/github/stars/hanselhansel/investment-research-sdk?style=social)](https://github.com/hanselhansel/investment-research-sdk)
-
-79-agent investment research system — multi-agent orchestration for financial analysis and due diligence.
-
-### [ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine) — Structured Self-Study with AI 🆕
-
-[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://github.com/hanselhansel/ai-learning-engine)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)](https://github.com/hanselhansel/ai-learning-engine)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hanselhansel/ai-learning-engine/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/hanselhansel/ai-learning-engine?style=social)](https://github.com/hanselhansel/ai-learning-engine)
-
-Open-source learning system that turns any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block advancement until you prove understanding, auto-generated pre-reads, and full progress tracking in git.
-Works with Claude Code · OpenAI Codex · Cursor AI
-
-### [DadCoach](https://github.com/hanselhansel/baby-tracker) — AI-Powered Parenting Companion
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
-[![Stars](https://img.shields.io/github/stars/hanselhansel/baby-tracker?style=social)](https://github.com/hanselhansel/baby-tracker)
-
-AI-powered parenting companion for expecting and new fathers. Features daily tips, milestone tracking, AI coach powered by Gemini, and a guided journal.
-96 Kotlin files · Gemini-powered · Material 3 design
+**[investment-research-sdk](https://github.com/hanselhansel/investment-research-sdk)** — 79-agent system for investment research. Multi-agent orchestration for financial analysis and due diligence across public equities and crypto.
 
 ---
 
-## Tech Stack
+### All Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)
-
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-FF6F00?logo=robot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-DC143C)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-3DDC84?logo=android&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+| Project | What It Does |
+|---------|-------------|
+| [ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine) | AI-powered structured learning system with spaced repetition and phase gates |
+| [context-cli](https://github.com/hanselhansel/context-cli) | LLM readiness linter for websites (PyPI package) |
+| [investment-research-sdk](https://github.com/hanselhansel/investment-research-sdk) | 79-agent multi-agent investment research system |
+| [DadCoach](https://github.com/hanselhansel/baby-tracker) | AI parenting companion for new fathers (Android, Kotlin, Gemini) |
 
 ---
 
-## Currently Working On
+### Stats
 
-- 🧠 [ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine) — structured self-study system powered by AI (spaced repetition, phase gates, cross-platform)
-- 🔧 [context-cli](https://github.com/hanselhansel/context-cli) — expanding agent readiness checks and MCP tooling
-- 📱 [DadCoach](https://github.com/hanselhansel/baby-tracker) — building out AI coaching features and milestone tracking
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanselhansel&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hanselhansel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-*Open to collaborating on AI agents, mobile apps, and open source.*
+Building in public. Say hi on [X/Twitter](https://x.com/hanselh_).

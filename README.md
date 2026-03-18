@@ -4,11 +4,13 @@ I build with AI, then open-source what works. Entrepreneur by day, mass-producin
 
 I think the best way to learn AI is to ship with it. So that's what I do.
 
+Right now I'm deep in the rabbit hole of **spatial intelligence, world models, and embodied AI**. If you're thinking about how machines learn to see, move, and reason about the physical world, we should talk.
+
 ---
 
 ### What I'm Building
 
-**[ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine)** — Turn any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block you from skipping ahead, and full progress tracking in git. Works with Claude Code, OpenAI Codex, and Cursor AI.
+**[ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine)** — Turn any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block you from skipping ahead, and full progress tracking in git. Currently using it to study spatial AI and robotics. Works with Claude Code, OpenAI Codex, and Cursor AI.
 
 **[context-cli](https://github.com/hanselhansel/context-cli)** — Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0-100 scale. Published on PyPI, includes MCP server.
 

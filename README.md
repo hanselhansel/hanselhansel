@@ -1,6 +1,8 @@
 # Hey, I'm Hansel
 
-I build with AI, then open-source what works. Currently shipping agentic systems and developer tools.
+I build with AI, then open-source what works. Entrepreneur by day, mass-producing prototypes by night.
+
+I think the best way to learn AI is to ship with it. So that's what I do.
 
 ---
 
@@ -20,16 +22,6 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 | [context-cli](https://github.com/hanselhansel/context-cli) | LLM readiness linter for websites (PyPI package) |
 | [investment-research-sdk](https://github.com/hanselhansel/investment-research-sdk) | 79-agent multi-agent investment research system |
 | [DadCoach](https://github.com/hanselhansel/baby-tracker) | AI parenting companion for new fathers (Android, Kotlin, Gemini) |
-
----
-
-### The Numbers
-
-2,600+ contributions. 11 repos. 5 languages. Mass-producing prototypes since 2019.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselhansel&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
 
 ---
 

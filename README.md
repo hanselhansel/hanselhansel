@@ -23,10 +23,12 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 
 ---
 
-### Stats
+### The Numbers
+
+11 repos. 5 languages. Mass-producing prototypes since 2019.
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanselhansel&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanselhansel&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions" />
 </p>
 
 <p>
@@ -35,4 +37,4 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 
 ---
 
-Building in public. Say hi on [X/Twitter](https://x.com/hanselh_).
+Building in public, shipping in private, open-sourcing when it works. Say hi on [X/Twitter](https://x.com/hanselh_).

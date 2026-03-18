@@ -30,6 +30,16 @@ pip install context-cli
 
 79-agent investment research system — multi-agent orchestration for financial analysis and due diligence.
 
+### [ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine) — Structured Self-Study with AI 🆕
+
+[![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://github.com/hanselhansel/ai-learning-engine)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)](https://github.com/hanselhansel/ai-learning-engine)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hanselhansel/ai-learning-engine/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/hanselhansel/ai-learning-engine?style=social)](https://github.com/hanselhansel/ai-learning-engine)
+
+Open-source learning system that turns any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block advancement until you prove understanding, auto-generated pre-reads, and full progress tracking in git.
+Works with Claude Code · OpenAI Codex · Cursor AI
+
 ### [DadCoach](https://github.com/hanselhansel/baby-tracker) — AI-Powered Parenting Companion
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://github.com/hanselhansel/baby-tracker)
@@ -70,6 +80,7 @@ AI-powered parenting companion for expecting and new fathers. Features daily tip
 
 ## Currently Working On
 
+- 🧠 [ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine) — structured self-study system powered by AI (spaced repetition, phase gates, cross-platform)
 - 🔧 [context-cli](https://github.com/hanselhansel/context-cli) — expanding agent readiness checks and MCP tooling
 - 📱 [DadCoach](https://github.com/hanselhansel/baby-tracker) — building out AI coaching features and milestone tracking
 

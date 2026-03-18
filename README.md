@@ -1,6 +1,6 @@
 # Hey, I'm Hansel
 
-I build with AI, then open-source what works. Currently shipping agentic systems, multi-agent orchestration, and developer tools.
+I build with AI, then open-source what works. Currently shipping agentic systems and developer tools.
 
 ---
 
@@ -9,8 +9,6 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 **[ai-learning-engine](https://github.com/hanselhansel/ai-learning-engine)** — Turn any AI assistant into a structured tutor. Spaced repetition quizzes, phase gates that block you from skipping ahead, and full progress tracking in git. Works with Claude Code, OpenAI Codex, and Cursor AI.
 
 **[context-cli](https://github.com/hanselhansel/context-cli)** — Audit any URL for AI crawler readiness. Scores content density, robots.txt, schema.org, and llms.txt on a 0-100 scale. Published on PyPI, includes MCP server.
-
-**[investment-research-sdk](https://github.com/hanselhansel/investment-research-sdk)** — 79-agent system for investment research. Multi-agent orchestration for financial analysis and due diligence across public equities and crypto.
 
 ---
 
@@ -32,7 +30,7 @@ I build with AI, then open-source what works. Currently shipping agentic systems
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hanselhansel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanselhansel&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
